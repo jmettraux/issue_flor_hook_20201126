@@ -1,0 +1,7 @@
+
+[ {
+  point: 'return'
+  consumed: true
+  require: 'hooks.rb'
+  class: 'ReturnedPollenHook' } ]
+
